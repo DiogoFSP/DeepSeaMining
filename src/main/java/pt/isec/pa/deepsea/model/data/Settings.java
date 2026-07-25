@@ -3,7 +3,7 @@ package pt.isec.pa.deepsea.model.data;
 import javafx.scene.text.Font;
 
 public interface Settings {
-     boolean MODO_DEFESA = true;
+     boolean MODO_DEFESA = false;
 
     //Dimensao das grelhas
     int LINHAS_SUPERFICIE = 14;
